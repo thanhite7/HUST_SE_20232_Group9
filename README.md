@@ -8,7 +8,7 @@
 | 20215205   | Pham Trung Hieu    |
 | 20215220   | Vu Thuy Linh       |
 | 20215238   | Ngo Minh Quy       |
-| 20215243   | Nguyen Tien Than   |
+| 20215243   | Nguyen Tien Thanh   |
 
 ## Introduction
 
